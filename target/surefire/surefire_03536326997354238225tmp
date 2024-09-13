@@ -1,0 +1,30 @@
+#surefire_0
+#Thu Sep 12 11:16:20 UTC 2024
+git.tags=
+git.build.version=0.0.1-SNAPSHOT
+git.branch=main
+git.build.host=ip-172-31-29-79
+git.commit.id=45242991d7b9a68b506c3db893835cd786be5e53
+git.commit.user.email=basanta.kumar.hota.4@gmail.com
+git.local.branch.behind=0
+git.commit.author.time=2022-07-04T15\:50\:14+0000
+git.build.user.name=
+git.dirty=false
+localRepository=/root/.m2/repository
+user.dir=/home/ubuntu/devops-automation
+git.closest.tag.commit.count=
+git.commit.user.name=javatechie
+git.commit.id.abbrev=4524299
+git.commit.id.describe-short=4524299
+git.total.commit.count=10
+git.commit.id.describe=4524299
+basedir=/home/ubuntu/devops-automation
+git.build.user.email=
+git.commit.message.short=format pom
+git.commit.committer.time=2022-07-04T15\:50\:14+0000
+git.closest.tag.name=
+git.local.branch.ahead=0
+git.commit.time=2022-07-04T15\:50\:14+0000
+git.build.time=2024-09-12T11\:16\:14+0000
+git.commit.message.full=format pom
+git.remote.origin.url=https\://github.com/Java-Techie-jt/devops-automation.git
